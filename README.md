@@ -1,7 +1,7 @@
 # FridayChallenge
 A script to create a script
 
-What was the challenge? - The challenge as to create a script that createsa new user group, a new user, adds this user to the new user group,creates a file called run.sh script with an echo command that is executabel by members od the group only, switches to the new user and then runs the run.sh script.
+What was the challenge? - The challenge was to create a script that createsa new user group, a new user, adds this user to the new user group,creates a file called run.sh script with an echo command that is executabel by members od the group only, switches to the new user and then runs the run.sh script.
 
 How I expected the challenge to go. - It was always going to be tough as I have no prior knowledge of Linux or Git. With just a few days of training it was always going ot be a daunting task, but we have access to some incredible resources in QA Community  and I always love a challenge.
 
